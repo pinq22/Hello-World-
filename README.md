@@ -17,7 +17,7 @@ public void class hello
   }
   public void hello_word()
   {
-    JOptionPane.showMessageDialog("Hello World! I am so enthusiastic 
+    JOptionPane.showMessageDialog("Hello World! I am so enthusiastic about programming"); 
     return;
   }
 } 
